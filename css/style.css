@@ -201,6 +201,8 @@ first div in the grid  and place it in the grid. */
  /* Step 8: Write the selector/rule property to style the .text-block class. */
 .text-block{
   text-align: center;
+  align-self: center;
+  margin:auto;
 }
 
 /* Add your media query here */
